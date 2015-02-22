@@ -1,6 +1,7 @@
 *.class
 *.log
 
+<<<<<<< HEAD
 logs
 project/project
 project/target
@@ -17,6 +18,8 @@ dist
 /RUNNING_PID
 /.settings
 
+=======
+>>>>>>> 96e50150a7a3c072b37f31176fb7929ba9c651d6
 # sbt specific
 .cache/
 .history/
@@ -30,4 +33,8 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+<<<<<<< HEAD
 .worksheet
+=======
+.worksheet
+>>>>>>> 96e50150a7a3c072b37f31176fb7929ba9c651d6
